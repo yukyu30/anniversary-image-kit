@@ -83,20 +83,6 @@ export const siteConfig = {
     bodyMarkdown: `
 ソーシャル VR 向けのオリジナル3Dアバター。3Dグッズ作成ツールで作った T シャツを手軽に着せられます。
 
-| 項目 | 内容 |
-| --- | --- |
-| **3Dモデル情報** | ソーシャルVRプラットフォーム用3Dアバター（Humanoid対応FBX / VRM同梱） |
-| **同梱データ** | 本体モデルFBX・VRM / Unitypackage / テクスチャPNG / 改変用テクスチャPSD |
-| **ポリゴン数** | 下着状態:△27,494 / メイン衣装:△69,256 |
-| **シェイプキー** | 顔: 242個 / 体: 28個 |
-
-**開発メンバー**
-
-- キャラクターデザイン / 衣装デザイン：coalowl（コールアウル） [@coalowl](https://x.com/coalowl)
-- 3Dモデリング / テクスチャ作成：Yossha（ヨッシャ） [@yoshino_alice2](https://x.com/yoshino_alice2)
-- クリエイティブディレクション：きりう（霧生 / KeyLew） [@KeyLew_VRC](https://x.com/KeyLew_VRC)
-
-出典：[https://lp.suzuri.jp/3d-t-shirt](https://lp.suzuri.jp/3d-t-shirt) より引用
 `,
     aboutUrl: "https://lp.suzuri.jp/3d-t-shirt",
     aboutLabel: "墨澄について詳しく",
