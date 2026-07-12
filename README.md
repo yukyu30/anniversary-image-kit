@@ -85,4 +85,5 @@ Next.js (App Router) / TypeScript / Tailwind CSS / three.js (@react-three/fiber,
 ## ライセンス
 
 - **ソースコードは [MIT](./LICENSE)**。
-- ただし **画像・SVG・イラスト・フォント・サンプル文言などのアセットは MIT 対象外**（`public/` 配下、`src/app/opengraph-image.png`、`src/app/icon.svg`、アバター/フレーム画像など）。各権利者に帰属します。**利用時はご自身の素材に差し替えてください。**
+- ただし 画像・SVG・イラストのアセットは MIT 対象外となります
+- 画像データ、SVGデータは各権利者に帰属します
